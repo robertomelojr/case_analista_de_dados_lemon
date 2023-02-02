@@ -1,4 +1,4 @@
-# Case Analista de Dados - Lemon Eergia
+# Case Analista de Dados - Lemon Energia
 # Autor : Roberto Bezerra de Melo Junior
 
 #### O notebook Relatorio_case_lemon_analista_de_dados.ipynb contém as manipulações e análises realizadas da base de dados.
